@@ -4,7 +4,7 @@ import Header from '../components/Header'
 
 const Home: NextPage = () => {
   return (
-    <div className="">
+    <div className=" relative h-[140vh]  ">
       <Head>
         <title>Hem | GranitMedia</title>
         <link rel="icon" href="/favicon.ico" />
